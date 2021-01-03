@@ -1,0 +1,13 @@
+{
+  "group": "applied_thinking",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:rosewood_log"
+    }
+  ],
+  "result": {
+    "item": "applied_thinking:rose_wood_planks",
+    "count": 4
+  }
+}

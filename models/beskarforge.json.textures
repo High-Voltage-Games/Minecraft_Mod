@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "beskarforgetop": "beskarforgetop",
+        "beskarforgeside": "beskarforgeside"
+      },
+      "name": "default"
+    }
+  }
+}

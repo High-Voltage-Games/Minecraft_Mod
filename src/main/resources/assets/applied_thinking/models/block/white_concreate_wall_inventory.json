@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "applied_thinking:blocks/white_concrete",
+    "particle": "applied_thinking:blocks/white_concrete"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "applied_thinking:blocks/rosewood_planks",
+    "top": "applied_thinking:blocks/rosewood_planks"
+  }
+}

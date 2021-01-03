@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "applied_thinking:blocks/black_concrete",
+    "top": "applied_thinking:blocks/black_concrete",
+    "side": "applied_thinking:blocks/black_concrete"
+  }
+}

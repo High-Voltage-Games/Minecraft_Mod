@@ -1,0 +1,12 @@
+{
+  "group": "applied_thinking",
+  "type": "minecraft:smelting",
+  "experience": 0.35,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "applied_thinking:lithium_ore"
+  },
+  "result": {
+    "item": "applied_thinking:lithium_ingot"
+  }
+}

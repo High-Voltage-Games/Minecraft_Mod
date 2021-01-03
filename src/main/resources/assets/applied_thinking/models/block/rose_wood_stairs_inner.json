@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "applied_thinking:blocks/rosewood_planks",
+    "top": "applied_thinking:blocks/rosewood_planks",
+    "side": "applied_thinking:blocks/rosewood_planks"
+  }
+}

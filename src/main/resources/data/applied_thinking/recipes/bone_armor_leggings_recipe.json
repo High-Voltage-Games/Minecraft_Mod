@@ -1,0 +1,36 @@
+{
+  "group": "applied_thinking",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bone_block"
+    },
+    "1": {
+      "item": "minecraft:bone_block"
+    },
+    "2": {
+      "item": "minecraft:bone_block"
+    },
+    "3": {
+      "item": "minecraft:bone_block"
+    },
+    "5": {
+      "item": "minecraft:bone_block"
+    },
+    "6": {
+      "item": "minecraft:bone_block"
+    },
+    "8": {
+      "item": "minecraft:bone_block"
+    }
+  },
+  "result": {
+    "item": "applied_thinking:bone_armor_leggings",
+    "count": 1
+  }
+}

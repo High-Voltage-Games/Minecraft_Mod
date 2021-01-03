@@ -1,0 +1,13 @@
+{
+  "group": "applied_thinking",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "applied_thinking:beskar_block"
+    }
+  ],
+  "result": {
+    "item": "applied_thinking:beskar_ingot",
+    "count": 9
+  }
+}

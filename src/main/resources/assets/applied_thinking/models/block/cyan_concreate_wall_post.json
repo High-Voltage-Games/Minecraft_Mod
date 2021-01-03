@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "applied_thinking:blocks/cyan_concrete",
+    "particle": "applied_thinking:blocks/cyan_concrete"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "group": "applied_thinking",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "applied_thinking:copper_ingot"
+    },
+    "1": {
+      "item": "applied_thinking:copper_ingot"
+    },
+    "2": {
+      "item": "applied_thinking:copper_ingot"
+    },
+    "3": {
+      "item": "applied_thinking:copper_ingot"
+    },
+    "5": {
+      "item": "applied_thinking:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "applied_thinking:copper_armor_helmet",
+    "count": 1
+  }
+}

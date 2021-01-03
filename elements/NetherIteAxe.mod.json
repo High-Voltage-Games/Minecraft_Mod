@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "netherite_axe",
+    "customModelName": "Normal",
+    "name": "Nether Ite Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:AppliedThinking"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 4,
+    "efficiency": 9.0,
+    "attackSpeed": 0.7,
+    "enchantability": 15,
+    "damageVsEntity": 9.0,
+    "usageCount": 2031,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:NetheriteIngot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

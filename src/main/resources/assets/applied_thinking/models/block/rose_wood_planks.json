@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "applied_thinking:blocks/rosewood_planks",
+    "particle": "applied_thinking:blocks/rosewood_planks"
+  }
+}

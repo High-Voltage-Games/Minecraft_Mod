@@ -1,0 +1,7 @@
+{
+  "parent": "applied_thinking:custom/tess",
+  "textures": {
+    "beacon": "applied_thinking:blocks/beacon",
+    "particle": "applied_thinking:items/beacon"
+  }
+}

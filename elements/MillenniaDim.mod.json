@@ -1,0 +1,47 @@
+{
+  "_fv": 13,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:CobaltBlock"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 1.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Millennia Dim Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:AppliedThinking"
+    },
+    "texture": "beskar_ingot",
+    "portalTexture": "beskar_ore",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:MillenniaBio"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_LAVA"
+    },
+    "airColor": {
+      "value": -10066330,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": false,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": true
+  }
+}

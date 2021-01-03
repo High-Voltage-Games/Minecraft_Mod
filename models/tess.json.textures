@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "beacon": "beacon"
+      },
+      "name": "default"
+    }
+  }
+}

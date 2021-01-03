@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "applied_thinking:blocks/rosewood_sapling",
+    "particle": "applied_thinking:blocks/rosewood_sapling"
+  }
+}

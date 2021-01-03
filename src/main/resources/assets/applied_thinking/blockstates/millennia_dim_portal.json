@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "applied_thinking:block/millennia_dim_portal_ew"
+    },
+    "axis=x": {
+      "model": "applied_thinking:block/millennia_dim_portal_ns"
+    }
+  }
+}

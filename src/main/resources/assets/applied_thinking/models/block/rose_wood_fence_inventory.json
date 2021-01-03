@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "applied_thinking:blocks/rosewood_planks",
+    "particle": "applied_thinking:blocks/rosewood_planks"
+  }
+}

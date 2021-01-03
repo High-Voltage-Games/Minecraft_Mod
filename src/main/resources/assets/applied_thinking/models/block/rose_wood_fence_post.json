@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "applied_thinking:blocks/rosewood_planks",
+    "particle": "applied_thinking:blocks/rosewood_planks"
+  }
+}

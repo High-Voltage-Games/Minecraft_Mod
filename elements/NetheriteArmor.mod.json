@@ -1,0 +1,57 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "netherite_helmet",
+    "enableBody": true,
+    "textureBody": "netherite_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "netherite_leggings",
+    "enableBoots": true,
+    "textureBoots": "netherite_boots",
+    "creativeTab": {
+      "value": "CUSTOM:AppliedThinking"
+    },
+    "armorTextureFile": "testarmor_",
+    "helmetName": "Netherite Armor Helmet",
+    "bodyName": "Netherite Armor Body",
+    "leggingsName": "Netherite Armor Leggings",
+    "bootsName": "Netherite Armor Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 45,
+    "damageValueHelmet": 4,
+    "damageValueBody": 8,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 4,
+    "enchantability": 15,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:NetheriteIngot"
+      }
+    ]
+  }
+}

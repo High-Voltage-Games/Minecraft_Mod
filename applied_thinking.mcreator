@@ -1,0 +1,2447 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "TinIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ingot"
+    },
+    {
+      "name": "TinOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ore"
+    },
+    {
+      "name": "TinBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_block"
+    },
+    {
+      "name": "TinOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ore_block_recipe"
+    },
+    {
+      "name": "TinBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_block_ore_recipe"
+    },
+    {
+      "name": "TinOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ore_smelting"
+    },
+    {
+      "name": "MagnesiumIngot",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_ingot"
+    },
+    {
+      "name": "MagnesiumOre",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_ore"
+    },
+    {
+      "name": "MagnesiumBlock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_block"
+    },
+    {
+      "name": "MagnesiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_ore_block_recipe"
+    },
+    {
+      "name": "MagnesiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_block_ore_recipe"
+    },
+    {
+      "name": "MagnesiumOreSmelting",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_ore_smelting"
+    },
+    {
+      "name": "CopperIngot",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ingot"
+    },
+    {
+      "name": "CopperOre",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore"
+    },
+    {
+      "name": "CopperBlock",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_block"
+    },
+    {
+      "name": "CopperOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_block_recipe"
+    },
+    {
+      "name": "CopperBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_block_ore_recipe"
+    },
+    {
+      "name": "CopperOreSmelting",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_smelting"
+    },
+    {
+      "name": "CobaltIngot",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_ingot"
+    },
+    {
+      "name": "CobaltOre",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_ore"
+    },
+    {
+      "name": "CobaltBlock",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_block"
+    },
+    {
+      "name": "CobaltOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_ore_block_recipe"
+    },
+    {
+      "name": "CobaltBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_block_ore_recipe"
+    },
+    {
+      "name": "CobaltOreSmelting",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_ore_smelting"
+    },
+    {
+      "name": "AppliedThinking",
+      "type": "tab",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "applied_thinking"
+    },
+    {
+      "name": "TitaniumIngot",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_ingot"
+    },
+    {
+      "name": "TitaniumOre",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_ore"
+    },
+    {
+      "name": "TitaniumBlock",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_block"
+    },
+    {
+      "name": "TitaniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_ore_block_recipe"
+    },
+    {
+      "name": "TitaniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_block_ore_recipe"
+    },
+    {
+      "name": "TitaniumOreSmelting",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_ore_smelting"
+    },
+    {
+      "name": "UraniumIngot",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ingot"
+    },
+    {
+      "name": "UraniumOre",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ore"
+    },
+    {
+      "name": "UraniumBlock",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_block"
+    },
+    {
+      "name": "UraniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ore_block_recipe"
+    },
+    {
+      "name": "UraniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_block_ore_recipe"
+    },
+    {
+      "name": "UraniumOreSmelting",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ore_smelting"
+    },
+    {
+      "name": "LithiumIngot",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_ingot"
+    },
+    {
+      "name": "LithiumOre",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_ore"
+    },
+    {
+      "name": "LithiumBlock",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_block"
+    },
+    {
+      "name": "LithiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_ore_block_recipe"
+    },
+    {
+      "name": "LithiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_block_ore_recipe"
+    },
+    {
+      "name": "LithiumOreSmelting",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_ore_smelting"
+    },
+    {
+      "name": "BeskarIngot",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beskar_ingot"
+    },
+    {
+      "name": "BeskarOre",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beskar_ore"
+    },
+    {
+      "name": "BeskarBlock",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beskar_block"
+    },
+    {
+      "name": "BeskarOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beskar_ore_block_recipe"
+    },
+    {
+      "name": "BeskarBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beskar_block_ore_recipe"
+    },
+    {
+      "name": "BeskarOreSmelting",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beskar_ore_smelting"
+    },
+    {
+      "name": "MagnesiumPickaxe",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_pickaxe"
+    },
+    {
+      "name": "MagnesiumAxe",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_axe"
+    },
+    {
+      "name": "MagnesiumSword",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_sword"
+    },
+    {
+      "name": "MagnesiumShovel",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_shovel"
+    },
+    {
+      "name": "MagnesiumHoe",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_hoe"
+    },
+    {
+      "name": "MagnesiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_pickaxe_recipe"
+    },
+    {
+      "name": "MagnesiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_axe_recipe"
+    },
+    {
+      "name": "MagnesiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_sword_recipe"
+    },
+    {
+      "name": "MagnesiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_shovel_recipe"
+    },
+    {
+      "name": "MagnesiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_hoe_recipe"
+    },
+    {
+      "name": "TitaniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_pickaxe_recipe"
+    },
+    {
+      "name": "TitaniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_axe_recipe"
+    },
+    {
+      "name": "TitaniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_sword_recipe"
+    },
+    {
+      "name": "TitaniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_shovel_recipe"
+    },
+    {
+      "name": "TitaniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_hoe_recipe"
+    },
+    {
+      "name": "TinPickaxe",
+      "type": "tool",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_pickaxe"
+    },
+    {
+      "name": "TinAxe",
+      "type": "tool",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_axe"
+    },
+    {
+      "name": "TinSword",
+      "type": "tool",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_sword"
+    },
+    {
+      "name": "TinShovel",
+      "type": "tool",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_shovel"
+    },
+    {
+      "name": "TinHoe",
+      "type": "tool",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_hoe"
+    },
+    {
+      "name": "TinPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_pickaxe_recipe"
+    },
+    {
+      "name": "TinAxeRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_axe_recipe"
+    },
+    {
+      "name": "TinSwordRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_sword_recipe"
+    },
+    {
+      "name": "TinShovelRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_shovel_recipe"
+    },
+    {
+      "name": "TinHoeRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_hoe_recipe"
+    },
+    {
+      "name": "CopperPickaxe",
+      "type": "tool",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_pickaxe"
+    },
+    {
+      "name": "CopperAxe",
+      "type": "tool",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_axe"
+    },
+    {
+      "name": "CopperSword",
+      "type": "tool",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_sword"
+    },
+    {
+      "name": "CopperShovel",
+      "type": "tool",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_shovel"
+    },
+    {
+      "name": "CopperHoe",
+      "type": "tool",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_hoe"
+    },
+    {
+      "name": "CopperPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_pickaxe_recipe"
+    },
+    {
+      "name": "CopperAxeRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_axe_recipe"
+    },
+    {
+      "name": "CopperSwordRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_sword_recipe"
+    },
+    {
+      "name": "CopperShovelRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_shovel_recipe"
+    },
+    {
+      "name": "CopperHoeRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_hoe_recipe"
+    },
+    {
+      "name": "TitaniumPickaxe",
+      "type": "tool",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_pickaxe"
+    },
+    {
+      "name": "TitaniumAxe",
+      "type": "tool",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_axe"
+    },
+    {
+      "name": "TitaniumSword",
+      "type": "tool",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_sword"
+    },
+    {
+      "name": "TitaniumShovel",
+      "type": "tool",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_shovel"
+    },
+    {
+      "name": "TitaniumHoe",
+      "type": "tool",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_hoe"
+    },
+    {
+      "name": "CobaltPickaxe",
+      "type": "tool",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_pickaxe"
+    },
+    {
+      "name": "CobaltAxe",
+      "type": "tool",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_axe"
+    },
+    {
+      "name": "CobaltSword",
+      "type": "tool",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_sword"
+    },
+    {
+      "name": "CobaltShovel",
+      "type": "tool",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_shovel"
+    },
+    {
+      "name": "CobaltHoe",
+      "type": "tool",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_hoe"
+    },
+    {
+      "name": "CobaltPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_pickaxe_recipe"
+    },
+    {
+      "name": "CobaltAxeRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_axe_recipe"
+    },
+    {
+      "name": "CobaltSwordRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_sword_recipe"
+    },
+    {
+      "name": "CobaltShovelRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_shovel_recipe"
+    },
+    {
+      "name": "CobaltHoeRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_hoe_recipe"
+    },
+    {
+      "name": "CobaltArmor",
+      "type": "armor",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CobaltArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_armor_helmet_recipe"
+    },
+    {
+      "name": "CobaltArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_armor_body_recipe"
+    },
+    {
+      "name": "CobaltArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_armor_leggings_recipe"
+    },
+    {
+      "name": "CobaltArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_armor_boots_recipe"
+    },
+    {
+      "name": "MagnesiumArmor",
+      "type": "armor",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "MagnesiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_armor_helmet_recipe"
+    },
+    {
+      "name": "MagnesiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_armor_body_recipe"
+    },
+    {
+      "name": "MagnesiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_armor_leggings_recipe"
+    },
+    {
+      "name": "MagnesiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnesium_armor_boots_recipe"
+    },
+    {
+      "name": "CopperArmor",
+      "type": "armor",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CopperArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_helmet_recipe"
+    },
+    {
+      "name": "CopperArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_body_recipe"
+    },
+    {
+      "name": "CopperArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_leggings_recipe"
+    },
+    {
+      "name": "CopperArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_boots_recipe"
+    },
+    {
+      "name": "LithiumPickaxe",
+      "type": "tool",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_pickaxe"
+    },
+    {
+      "name": "LithiumAxe",
+      "type": "tool",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_axe"
+    },
+    {
+      "name": "LithiumSword",
+      "type": "tool",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_sword"
+    },
+    {
+      "name": "LithiumShovel",
+      "type": "tool",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_shovel"
+    },
+    {
+      "name": "LithiumHoe",
+      "type": "tool",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_hoe"
+    },
+    {
+      "name": "LithiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_pickaxe_recipe"
+    },
+    {
+      "name": "LithiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_axe_recipe"
+    },
+    {
+      "name": "LithiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_sword_recipe"
+    },
+    {
+      "name": "LithiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_shovel_recipe"
+    },
+    {
+      "name": "LithiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_hoe_recipe"
+    },
+    {
+      "name": "TinArmor",
+      "type": "armor",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TinArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_armor_helmet_recipe"
+    },
+    {
+      "name": "TinArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_armor_body_recipe"
+    },
+    {
+      "name": "TinArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_armor_leggings_recipe"
+    },
+    {
+      "name": "TinArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_armor_boots_recipe"
+    },
+    {
+      "name": "TitaniumArmor",
+      "type": "armor",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TitaniumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_armor_helmet_recipe"
+    },
+    {
+      "name": "TitaniumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_armor_body_recipe"
+    },
+    {
+      "name": "TitaniumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_armor_leggings_recipe"
+    },
+    {
+      "name": "TitaniumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_armor_boots_recipe"
+    },
+    {
+      "name": "LithiumArmor",
+      "type": "armor",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "LithiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_armor_helmet_recipe"
+    },
+    {
+      "name": "LithiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_armor_body_recipe"
+    },
+    {
+      "name": "LithiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_armor_leggings_recipe"
+    },
+    {
+      "name": "LithiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lithium_armor_boots_recipe"
+    },
+    {
+      "name": "BonePickaxe",
+      "type": "tool",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_pickaxe"
+    },
+    {
+      "name": "BoneAxe",
+      "type": "tool",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_axe"
+    },
+    {
+      "name": "BoneSword",
+      "type": "tool",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_sword"
+    },
+    {
+      "name": "BoneShovel",
+      "type": "tool",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_shovel"
+    },
+    {
+      "name": "BoneHoe",
+      "type": "tool",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_hoe"
+    },
+    {
+      "name": "BonePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_pickaxe_recipe"
+    },
+    {
+      "name": "BoneAxeRecipe",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_axe_recipe"
+    },
+    {
+      "name": "BoneSwordRecipe",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_sword_recipe"
+    },
+    {
+      "name": "BoneShovelRecipe",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_shovel_recipe"
+    },
+    {
+      "name": "BoneHoeRecipe",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_hoe_recipe"
+    },
+    {
+      "name": "BoneArmor",
+      "type": "armor",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BoneArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_armor_helmet_recipe"
+    },
+    {
+      "name": "BoneArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_armor_body_recipe"
+    },
+    {
+      "name": "BoneArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_armor_leggings_recipe"
+    },
+    {
+      "name": "BoneArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_armor_boots_recipe"
+    },
+    {
+      "name": "BeskarArmor",
+      "type": "armor",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beskar_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BeskarArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beskar_armor_helmet_recipe"
+    },
+    {
+      "name": "BeskarArmorLegginsRecipe",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beskar_armor_leggins_recipe"
+    },
+    {
+      "name": "BeskarArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beskar_armor_boots_recipe"
+    },
+    {
+      "name": "BeskarArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beskar_armor_body_recipe"
+    },
+    {
+      "name": "MillenniaDim",
+      "type": "dimension",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "millennia_dim"
+    },
+    {
+      "name": "MillenniaBio",
+      "type": "biome",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "millennia_bio"
+    },
+    {
+      "name": "TesseractItem",
+      "type": "item",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tesseract_item"
+    },
+    {
+      "name": "RoseWoodWood",
+      "type": "block",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_wood"
+    },
+    {
+      "name": "RoseWoodLog",
+      "type": "block",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_log"
+    },
+    {
+      "name": "RoseWoodPlanks",
+      "type": "block",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_planks"
+    },
+    {
+      "name": "RoseWoodLeaves",
+      "type": "block",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_leaves"
+    },
+    {
+      "name": "RoseWoodStairs",
+      "type": "block",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_stairs"
+    },
+    {
+      "name": "RoseWoodSlab",
+      "type": "block",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_slab"
+    },
+    {
+      "name": "RoseWoodFence",
+      "type": "block",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_fence"
+    },
+    {
+      "name": "RoseWoodFenceGate",
+      "type": "block",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_fence_gate"
+    },
+    {
+      "name": "RoseWoodItemsTag",
+      "type": "tag",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_items_tag"
+    },
+    {
+      "name": "RoseWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_wood_recipe"
+    },
+    {
+      "name": "RoseWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_planks_recipe"
+    },
+    {
+      "name": "RoseWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_stairs_recipe"
+    },
+    {
+      "name": "RoseWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_slab_recipe"
+    },
+    {
+      "name": "RoseWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_fence_recipe"
+    },
+    {
+      "name": "RoseWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_fence_gate_recipe"
+    },
+    {
+      "name": "RoseWoodStickRecipe",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_stick_recipe"
+    },
+    {
+      "name": "TestDoor",
+      "type": "block",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test_door"
+    },
+    {
+      "name": "BeskarForge",
+      "type": "block",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beskar_forge"
+    },
+    {
+      "name": "BeskarForgeGUI",
+      "type": "gui",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beskar_forge_gui"
+    },
+    {
+      "name": "RoseWoodBio",
+      "type": "biome",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_bio"
+    },
+    {
+      "name": "RoseWood",
+      "type": "tag",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood"
+    },
+    {
+      "name": "RoseWoodSapling",
+      "type": "block",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_sapling"
+    },
+    {
+      "name": "AncientDebris",
+      "type": "block",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_debris"
+    },
+    {
+      "name": "NetheriteBlock",
+      "type": "block",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_block"
+    },
+    {
+      "name": "WhiteConcreteStairs",
+      "type": "block",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_concrete_stairs"
+    },
+    {
+      "name": "WhiteConcreteSlab",
+      "type": "block",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_concrete_slab"
+    },
+    {
+      "name": "BlackConcreteStairs",
+      "type": "block",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_concrete_stairs"
+    },
+    {
+      "name": "RedConcreteStairs",
+      "type": "block",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_concrete_stairs"
+    },
+    {
+      "name": "CyanConcreteStairs",
+      "type": "block",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_concrete_stairs"
+    },
+    {
+      "name": "BlueConcreteStairs",
+      "type": "block",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_concrete_stairs"
+    },
+    {
+      "name": "LightBlueConcreteStairs",
+      "type": "block",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_concrete_stairs"
+    },
+    {
+      "name": "BrownConcreteStairs",
+      "type": "block",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_concrete_stairs"
+    },
+    {
+      "name": "YellowConcreteStairs",
+      "type": "block",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_concrete_stairs"
+    },
+    {
+      "name": "PurpleConcreteStairs",
+      "type": "block",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_concrete_stairs"
+    },
+    {
+      "name": "PinkConcreteStairs",
+      "type": "block",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_concrete_stairs"
+    },
+    {
+      "name": "OrangeConcreteStairs",
+      "type": "block",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_concrete_stairs"
+    },
+    {
+      "name": "MagenetaConcreteStairs",
+      "type": "block",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mageneta_concrete_stairs"
+    },
+    {
+      "name": "GreenConcreteStairs",
+      "type": "block",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_concrete_stairs"
+    },
+    {
+      "name": "LimeConcreteStairs",
+      "type": "block",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_concrete_stairs"
+    },
+    {
+      "name": "GrayConcreteStairs",
+      "type": "block",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_concrete_stairs"
+    },
+    {
+      "name": "LightGrayConcreteStairs",
+      "type": "block",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_concrete_stairs"
+    },
+    {
+      "name": "BlackConcreteSlab",
+      "type": "block",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_concrete_slab"
+    },
+    {
+      "name": "RedConcreteSlab",
+      "type": "block",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_concrete_slab"
+    },
+    {
+      "name": "CyanConcreteSlab",
+      "type": "block",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_concrete_slab"
+    },
+    {
+      "name": "BlueConcreteSlab",
+      "type": "block",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_concrete_slab"
+    },
+    {
+      "name": "LightBlueConcreteSlab",
+      "type": "block",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_concrete_slab"
+    },
+    {
+      "name": "BrownConcreteSlab",
+      "type": "block",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_concrete_slab"
+    },
+    {
+      "name": "YellowConcreteSlab",
+      "type": "block",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_concrete_slab"
+    },
+    {
+      "name": "PurpleConcreteSlab",
+      "type": "block",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_concrete_slab"
+    },
+    {
+      "name": "PinkConcreteSlab",
+      "type": "block",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_concrete_slab"
+    },
+    {
+      "name": "OrangeConcreteSlab",
+      "type": "block",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_concrete_slab"
+    },
+    {
+      "name": "MagenetaConcreteSlab",
+      "type": "block",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mageneta_concrete_slab"
+    },
+    {
+      "name": "GreenConcreteSlab",
+      "type": "block",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_concrete_slab"
+    },
+    {
+      "name": "LimeConcreteSlab",
+      "type": "block",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_concrete_slab"
+    },
+    {
+      "name": "GrayConcreteSlab",
+      "type": "block",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_concrete_slab"
+    },
+    {
+      "name": "LightGrayConcreteSlab",
+      "type": "block",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_concrete_slab"
+    },
+    {
+      "name": "NetheriteScrap",
+      "type": "item",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_scrap"
+    },
+    {
+      "name": "NetheriteIngot",
+      "type": "item",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_ingot"
+    },
+    {
+      "name": "NetheriteArmor",
+      "type": "armor",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "NetheritePickaxe",
+      "type": "tool",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_pickaxe"
+    },
+    {
+      "name": "NetherIteSword",
+      "type": "tool",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_sword"
+    },
+    {
+      "name": "NetherIteShovel",
+      "type": "tool",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_shovel"
+    },
+    {
+      "name": "NetherIteAxe",
+      "type": "tool",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_axe"
+    },
+    {
+      "name": "NetheriteHoe",
+      "type": "tool",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_hoe"
+    },
+    {
+      "name": "WhiteConcreateWall",
+      "type": "block",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_concreate_wall"
+    },
+    {
+      "name": "BlackConcreateWall",
+      "type": "block",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_concreate_wall"
+    },
+    {
+      "name": "RedConcreateWall",
+      "type": "block",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_concreate_wall"
+    },
+    {
+      "name": "CyanConcreateWall",
+      "type": "block",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_concreate_wall"
+    },
+    {
+      "name": "BlueConcreateWall",
+      "type": "block",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_concreate_wall"
+    },
+    {
+      "name": "LightBlueConcreateWall",
+      "type": "block",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_concreate_wall"
+    },
+    {
+      "name": "BrownConcreateWall",
+      "type": "block",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_concreate_wall"
+    },
+    {
+      "name": "YellowConcreateWall",
+      "type": "block",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_concreate_wall"
+    },
+    {
+      "name": "PurpleConcreateWall",
+      "type": "block",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_concreate_wall"
+    },
+    {
+      "name": "PinkConcreateWall",
+      "type": "block",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_concreate_wall"
+    },
+    {
+      "name": "OrangeConcreateWall",
+      "type": "block",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_concreate_wall"
+    },
+    {
+      "name": "MagenetaConcreateWall",
+      "type": "block",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mageneta_concreate_wall"
+    },
+    {
+      "name": "GreenConcreateWall",
+      "type": "block",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_concreate_wall"
+    },
+    {
+      "name": "LimeConcreateWall",
+      "type": "block",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_concreate_wall"
+    },
+    {
+      "name": "GrayConcreateWall",
+      "type": "block",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_concreate_wall"
+    },
+    {
+      "name": "LightGrayConcreateWall",
+      "type": "block",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_concreate_wall"
+    },
+    {
+      "name": "RoseWoodTree",
+      "type": "structure",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_tree"
+    },
+    {
+      "name": "RoseWoodSaplingTag",
+      "type": "tag",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rose_wood_sapling_tag"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.applied_thinking.beskar_forge": "Beskar Forge",
+      "block.applied_thinking.lithium_ore": "Lithium Ore",
+      "block.applied_thinking.green_concrete_stairs": "Green Concrete Stairs",
+      "item.applied_thinking.magnesium_armor_boots": "Magnesium Boots",
+      "block.applied_thinking.rose_wood_stairs": "RoseWood Stairs",
+      "item.applied_thinking.copper_hoe": "Copper Hoe",
+      "item.applied_thinking.cobalt_ingot": "Cobalt",
+      "item.applied_thinking.tin_pickaxe": "Tin Pickaxe",
+      "block.applied_thinking.red_concrete_slab": "Red Concrete Slab",
+      "block.applied_thinking.purple_concreate_wall": "Purple Concrete Wall",
+      "block.applied_thinking.yellow_concreate_wall": "Yellow Concrete Wall",
+      "item.applied_thinking.cobalt_shovel": "Cobalt Shovel",
+      "item.applied_thinking.cobalt_axe": "Cobalt Axe",
+      "biome.applied_thinking.rose_wood_bio": "RoseWood",
+      "block.applied_thinking.ancient_debris": "Ancient Debris",
+      "item.applied_thinking.netherite_axe": "Nether Ite Axe",
+      "block.applied_thinking.brown_concrete_slab": "Brown Concrete Slab",
+      "item.applied_thinking.netherite_shovel": "Nether Ite Shovel",
+      "item.applied_thinking.bone_axe": "Bone Axe",
+      "block.applied_thinking.orange_concrete_slab": "Orange Concrete Slab",
+      "item.applied_thinking.beskar_armor_helmet": "Beskar Armor Helmet",
+      "item.applied_thinking.tin_hoe": "Tin Hoe",
+      "item.applied_thinking.copper_pickaxe": "Copper Pickaxe",
+      "block.applied_thinking.beskar_ore": "Beskar Ore",
+      "biome.applied_thinking.millennia_bio": "Millennia Bio",
+      "block.applied_thinking.rose_wood_wood": "RoseWood Wood",
+      "block.applied_thinking.light_blue_concreate_wall": "Light Blue Concrete Wall",
+      "item.applied_thinking.lithium_hoe": "Lithium Hoe",
+      "block.applied_thinking.cyan_concrete_slab": "Cyan Concrete Slab",
+      "item.applied_thinking.lithium_pickaxe": "Lithium Pickaxe",
+      "item.applied_thinking.titanium_armor_chestplate": "Titanium Chestplate",
+      "block.applied_thinking.orange_concrete_stairs": "Orange Concrete Stairs",
+      "block.applied_thinking.blue_concrete_stairs": "Blue Concrete Stairs",
+      "block.applied_thinking.white_concreate_wall": "White Concrete Wall",
+      "block.applied_thinking.light_gray_concrete_stairs": "Light Gray Concrete Stairs",
+      "block.applied_thinking.copper_block": "Block of Copper",
+      "item.applied_thinking.titanium_shovel": "Titanium Shovel",
+      "item.applied_thinking.lithium_armor_leggings": "Lithium Leggings",
+      "item.applied_thinking.copper_axe": "Copper Axe",
+      "item.applied_thinking.magnesium_pickaxe": "Magnesium Pickaxe",
+      "block.applied_thinking.light_blue_concrete_stairs": "Light Blue Concrete Stairs",
+      "item.applied_thinking.tin_ingot": "Tin",
+      "block.applied_thinking.cyan_concreate_wall": "Cyan Concrete Wall",
+      "item.applied_thinking.copper_sword": "Copper Sword",
+      "item.applied_thinking.netherite_sword": "Nether Ite Sword",
+      "item.applied_thinking.magnesium_armor_leggings": "Magnesium Leggings",
+      "item.applied_thinking.netherite_hoe": "Netherite Hoe",
+      "block.applied_thinking.titanium_ore": "Titanium Ore",
+      "item.applied_thinking.beskar_armor_chestplate": "Beskar Armor Body",
+      "item.applied_thinking.bone_hoe": "Bone Hoe",
+      "block.applied_thinking.magnesium_ore": "Magnesium Ore",
+      "block.applied_thinking.purple_concrete_slab": "Purple Concrete Slab",
+      "item.applied_thinking.tin_axe": "Tin Axe",
+      "item.applied_thinking.copper_armor_helmet": "Copper Helmet",
+      "item.applied_thinking.bone_shovel": "Bone Shovel",
+      "item.applied_thinking.magnesium_armor_chestplate": "Magnesium Chestplate",
+      "block.applied_thinking.red_concreate_wall": "Red Concrete Wall",
+      "item.applied_thinking.magnesium_hoe": "Magnesium Hoe",
+      "item.applied_thinking.titanium_pickaxe": "Titanium Pickaxe",
+      "item.applied_thinking.titanium_armor_helmet": "Titanium Helmet",
+      "item.applied_thinking.tesseract_item": "Tesseract ",
+      "item.applied_thinking.bone_armor_chestplate": "Bone Chestplate",
+      "block.applied_thinking.rose_wood_fence": "RoseWood Fence",
+      "block.applied_thinking.lime_concrete_slab": "Lime Concrete Slab",
+      "block.applied_thinking.beskar_block": "Block of Beskar",
+      "item.applied_thinking.netherite_scrap": "Netherite Scrap",
+      "item.applied_thinking.cobalt_hoe": "Cobalt Hoe",
+      "item.applied_thinking.netherite_ingot": "Netherite Ingot",
+      "item.applied_thinking.tin_shovel": "Tin Shovel",
+      "item.applied_thinking.uranium_ingot": "Uranium",
+      "item.applied_thinking.copper_ingot": "Copper",
+      "item.applied_thinking.copper_armor_chestplate": "Copper Chestplate",
+      "item.applied_thinking.tin_armor_helmet": "Tin Helmet",
+      "item.applied_thinking.tin_sword": "Tin Sword",
+      "item.applied_thinking.magnesium_axe": "Magnesium Axe",
+      "item.applied_thinking.cobalt_armor_leggings": "Cobalt Leggings",
+      "block.applied_thinking.netherite_block": "Netherite Block",
+      "block.applied_thinking.cyan_concrete_stairs": "Cyan Concrete Stairs",
+      "block.applied_thinking.white_concrete_slab": "White Concrete Slab",
+      "item.applied_thinking.bone_armor_helmet": "Bone Helmet",
+      "block.applied_thinking.test_door": "Test Door",
+      "item.applied_thinking.lithium_armor_chestplate": "Lithium Chestplate",
+      "item.applied_thinking.cobalt_armor_chestplate": "Cobalt Chestplate",
+      "item.applied_thinking.cobalt_sword": "Cobalt Sword",
+      "block.applied_thinking.rose_wood_fence_gate": "RoseWood Fence Gate",
+      "item.applied_thinking.netherite_armor_helmet": "Netherite Armor Helmet",
+      "item.applied_thinking.titanium_armor_boots": "Titanium Boots",
+      "item.applied_thinking.tin_armor_chestplate": "Tin Chestplate",
+      "item.applied_thinking.bone_sword": "Bone Sword",
+      "block.applied_thinking.pink_concrete_slab": "Pink Concrete Slab",
+      "block.applied_thinking.yellow_concrete_stairs": "Yellow Concrete Stairs",
+      "item.applied_thinking.tin_armor_boots": "Tin Boots",
+      "block.applied_thinking.copper_ore": "Copper Ore",
+      "item.applied_thinking.copper_shovel": "Copper Shovel",
+      "item.applied_thinking.magnesium_ingot": "Magnesium",
+      "item.applied_thinking.titanium_sword": "Titanium Sword",
+      "block.applied_thinking.rose_wood_log": "RoseWood Log",
+      "item.applied_thinking.netherite_pickaxe": "Netherite Pickaxe",
+      "block.applied_thinking.light_gray_concrete_slab": "Light Gray Concrete Slab",
+      "item.applied_thinking.titanium_hoe": "Titanium Hoe",
+      "block.applied_thinking.green_concreate_wall": "Green Concrete Wall",
+      "item.applied_thinking.millennia_dim": "Millennia Dim Portal Igniter",
+      "block.applied_thinking.red_concrete_stairs": "Red Concrete Stairs",
+      "block.applied_thinking.cobalt_ore": "Cobalt Ore",
+      "block.applied_thinking.black_concreate_wall": "Black Concrete Wall",
+      "block.applied_thinking.green_concrete_slab": "Green Concrete Slab",
+      "item.applied_thinking.copper_armor_leggings": "Copper Leggings",
+      "item.applied_thinking.magnesium_shovel": "Magnesium Shovel",
+      "item.applied_thinking.copper_armor_boots": "Copper Boots",
+      "item.applied_thinking.bone_armor_boots": "Bone Boots",
+      "block.applied_thinking.blue_concreate_wall": "Blue Concrete Wall",
+      "block.applied_thinking.yellow_concrete_slab": "Yellow Concrete Slab",
+      "item.applied_thinking.lithium_armor_helmet": "Lithium Helmet",
+      "item.applied_thinking.bone_armor_leggings": "Bone Leggings",
+      "block.applied_thinking.orange_concreate_wall": "Orange Concrete Wall",
+      "item.applied_thinking.lithium_ingot": "Lithium",
+      "block.applied_thinking.pink_concrete_stairs": "Pink Concrete Stairs",
+      "block.applied_thinking.white_concrete_stairs": "White Concrete Stairs",
+      "item.applied_thinking.beskar_armor_boots": "Beskar Armor Boots",
+      "block.applied_thinking.brown_concrete_stairs": "Brown Concrete Stairs",
+      "item.applied_thinking.beskar_ingot": "Beskar",
+      "item.applied_thinking.magnesium_sword": "Magnesium Sword",
+      "block.applied_thinking.rose_wood_slab": "RoseWood Slab",
+      "block.applied_thinking.blue_concrete_slab": "Blue Concrete Slab",
+      "item.applied_thinking.cobalt_armor_boots": "Cobalt Boots",
+      "block.applied_thinking.black_concrete_slab": "Black Concrete Slab",
+      "item.applied_thinking.beskar_armor_leggings": "Beskar Armor Leggings",
+      "block.applied_thinking.gray_concrete_stairs": "Gray Concrete Stairs",
+      "block.applied_thinking.uranium_block": "Block of Uranium",
+      "block.applied_thinking.mageneta_concrete_stairs": "Mageneta Concrete Stairs",
+      "item.applied_thinking.magnesium_armor_helmet": "Magnesium Helmet",
+      "item.applied_thinking.netherite_armor_boots": "Netherite Armor Boots",
+      "item.applied_thinking.titanium_ingot": "Titanium",
+      "item.applied_thinking.cobalt_armor_helmet": "Cobalt Helmet",
+      "block.applied_thinking.tin_ore": "Tin Ore",
+      "item.applied_thinking.lithium_armor_boots": "Lithium Boots",
+      "item.applied_thinking.tin_armor_leggings": "Tin Leggings",
+      "block.applied_thinking.gray_concrete_slab": "Gray Concrete Slab",
+      "block.applied_thinking.tin_block": "Block of Tin",
+      "block.applied_thinking.purple_concrete_stairs": "Purple Concrete Stairs",
+      "item.applied_thinking.titanium_armor_leggings": "Titanium Leggings",
+      "block.applied_thinking.rose_wood_leaves": "RoseWood Leaves",
+      "block.applied_thinking.titanium_block": "Block of Titanium",
+      "item.applied_thinking.netherite_armor_leggings": "Netherite Armor Leggings",
+      "block.applied_thinking.light_gray_concreate_wall": "Light Gray Concrete Wall",
+      "item.applied_thinking.netherite_armor_chestplate": "Netherite Armor Body",
+      "block.applied_thinking.light_blue_concrete_slab": "Light Blue Concrete Slab",
+      "item.applied_thinking.bone_pickaxe": "Bone Pickaxe",
+      "item.applied_thinking.lithium_shovel": "Lithium Shovel",
+      "item.applied_thinking.titanium_axe": "Titanium Axe",
+      "block.applied_thinking.lithium_block": "Block of Lithium",
+      "block.applied_thinking.gray_concreate_wall": "Gray Concrete Wall",
+      "itemGroup.tabapplied_thinking": "Applied Thinking",
+      "block.applied_thinking.lime_concreate_wall": "Lime Concrete Wall",
+      "block.applied_thinking.uranium_ore": "Uranium Ore",
+      "block.applied_thinking.black_concrete_stairs": "Black Concrete Stairs",
+      "block.applied_thinking.magnesium_block": "Block of Magnesium",
+      "block.applied_thinking.brown_concreate_wall": "Brown Concrete Wall",
+      "block.applied_thinking.mageneta_concreate_wall": "Mageneta Concrete Wall",
+      "block.applied_thinking.lime_concrete_stairs": "Lime Concrete Stairs",
+      "item.applied_thinking.cobalt_pickaxe": "Cobalt Pickaxe",
+      "item.applied_thinking.lithium_axe": "Lithium Axe",
+      "block.applied_thinking.mageneta_concrete_slab": "Mageneta Concrete Slab",
+      "item.applied_thinking.lithium_sword": "Lithium Sword",
+      "block.applied_thinking.rose_wood_planks": "RoseWood Planks",
+      "block.applied_thinking.rose_wood_sapling": "Rose Wood Sapling",
+      "block.applied_thinking.cobalt_block": "Block of Cobalt",
+      "block.applied_thinking.pink_concreate_wall": "Pink Concrete Wall"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "applied_thinking",
+    "modName": "Applied_Thinking",
+    "version": "1.0.0",
+    "author": "joshu, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.appliedthinking",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

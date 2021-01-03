@@ -1,0 +1,9 @@
+{
+  "parent": "applied_thinking:custom/beskarforge",
+  "textures": {
+    "all": "applied_thinking:blocks/beskarforgeside",
+    "particle": "applied_thinking:blocks/beskarforgeside",
+    "beskarforgetop": "applied_thinking:blocks/beskarforgetop",
+    "beskarforgeside": "applied_thinking:blocks/beskarforgeside"
+  }
+}

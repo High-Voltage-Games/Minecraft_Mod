@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "applied_thinking:blocks/pink_concrete",
+    "top": "applied_thinking:blocks/pink_concrete",
+    "side": "applied_thinking:blocks/pink_concrete"
+  }
+}
