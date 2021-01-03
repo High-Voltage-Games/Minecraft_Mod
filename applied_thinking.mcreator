@@ -2250,6 +2250,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "rose_wood_sapling_tag"
+    },
+    {
+      "name": "WhiteConcreteStairsRecipe",
+      "type": "recipe",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_concrete_stairs_recipe"
+    },
+    {
+      "name": "SmithingTabkeGUI",
+      "type": "gui",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smithing_tabke_gui"
+    },
+    {
+      "name": "SmithingTable",
+      "type": "block",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smithing_table"
     }
   ],
   "variable_elements": [],
@@ -2259,8 +2286,8 @@
       "block.applied_thinking.beskar_forge": "Beskar Forge",
       "block.applied_thinking.lithium_ore": "Lithium Ore",
       "block.applied_thinking.green_concrete_stairs": "Green Concrete Stairs",
-      "item.applied_thinking.magnesium_armor_boots": "Magnesium Boots",
       "block.applied_thinking.rose_wood_stairs": "RoseWood Stairs",
+      "item.applied_thinking.magnesium_armor_boots": "Magnesium Boots",
       "item.applied_thinking.copper_hoe": "Copper Hoe",
       "item.applied_thinking.cobalt_ingot": "Cobalt",
       "item.applied_thinking.tin_pickaxe": "Tin Pickaxe",
@@ -2273,6 +2300,7 @@
       "block.applied_thinking.ancient_debris": "Ancient Debris",
       "item.applied_thinking.netherite_axe": "Nether Ite Axe",
       "block.applied_thinking.brown_concrete_slab": "Brown Concrete Slab",
+      "block.applied_thinking.smithing_table": "Smithing Table",
       "item.applied_thinking.netherite_shovel": "Nether Ite Shovel",
       "item.applied_thinking.bone_axe": "Bone Axe",
       "block.applied_thinking.orange_concrete_slab": "Orange Concrete Slab",
