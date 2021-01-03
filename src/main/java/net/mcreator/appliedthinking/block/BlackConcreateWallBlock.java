@@ -29,7 +29,7 @@ import java.util.Collections;
 
 @AppliedThinkingModElements.ModElement.Tag
 public class BlackConcreateWallBlock extends AppliedThinkingModElements.ModElement {
-	@ObjectHolder("applied_thinking:black_concreate_wall")
+	@ObjectHolder("applied_thinking:black_concrete_wall")
 	public static final Block block = null;
 	public BlackConcreateWallBlock(AppliedThinkingModElements instance) {
 		super(instance, 238);
@@ -44,7 +44,7 @@ public class BlackConcreateWallBlock extends AppliedThinkingModElements.ModEleme
 	public static class CustomBlock extends WallBlock {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).lightValue(0));
-			setRegistryName("black_concreate_wall");
+			setRegistryName("black_concrete_wall");
 		}
 
 		private boolean func_220113_a(BlockState state, boolean checkattach, Direction face) {

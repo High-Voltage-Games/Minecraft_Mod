@@ -5,7 +5,7 @@
         "up": "true"
       },
       "apply": {
-        "model": "applied_thinking:block/black_concreate_wall_post"
+        "model": "applied_thinking:block/black_concrete_wall_post"
       }
     },
     {
@@ -13,7 +13,7 @@
         "north": "true"
       },
       "apply": {
-        "model": "applied_thinking:block/black_concreate_wall",
+        "model": "applied_thinking:block/black_concrete_wall",
         "uvlock": true
       }
     },
@@ -22,7 +22,7 @@
         "south": "true"
       },
       "apply": {
-        "model": "applied_thinking:block/black_concreate_wall",
+        "model": "applied_thinking:block/black_concrete_wall",
         "y": 180,
         "uvlock": true
       }
@@ -32,7 +32,7 @@
         "west": "true"
       },
       "apply": {
-        "model": "applied_thinking:block/black_concreate_wall",
+        "model": "applied_thinking:block/black_concrete_wall",
         "y": 270,
         "uvlock": true
       }
@@ -42,7 +42,7 @@
         "east": "true"
       },
       "apply": {
-        "model": "applied_thinking:block/black_concreate_wall",
+        "model": "applied_thinking:block/black_concrete_wall",
         "y": 90,
         "uvlock": true
       }

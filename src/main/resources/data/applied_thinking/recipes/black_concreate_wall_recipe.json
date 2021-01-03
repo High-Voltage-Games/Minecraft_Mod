@@ -1,0 +1,32 @@
+{
+  "group": "applied_thinking",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:black_concrete"
+    },
+    "1": {
+      "item": "minecraft:black_concrete"
+    },
+    "2": {
+      "item": "minecraft:black_concrete"
+    },
+    "3": {
+      "item": "minecraft:black_concrete"
+    },
+    "4": {
+      "item": "minecraft:black_concrete"
+    },
+    "5": {
+      "item": "minecraft:black_concrete"
+    }
+  },
+  "result": {
+    "item": "applied_thinking:black_concrete_wall",
+    "count": 6
+  }
+}
