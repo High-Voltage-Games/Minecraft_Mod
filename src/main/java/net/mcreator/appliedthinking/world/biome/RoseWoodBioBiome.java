@@ -4,6 +4,8 @@ package net.mcreator.appliedthinking.world.biome;
 import net.minecraftforge.registries.ObjectHolder;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.common.BiomeManager;
+import net.minecraftforge.api.distmarker.OnlyIn;
+import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.world.gen.surfacebuilders.SurfaceBuilderConfig;
 import net.minecraft.world.gen.surfacebuilders.SurfaceBuilder;
@@ -42,8 +44,8 @@ public class RoseWoodBioBiome extends AppliedThinkingModElements.ModElement {
 		public CustomBiome() {
 			super(new Biome.Builder().downfall(0.5f).depth(0.1f).scale(0.2f).temperature(0.5f).precipitation(Biome.RainType.RAIN)
 					.category(Biome.Category.NONE).waterColor(4159204).waterFogColor(329011)
-					.surfaceBuilder(SurfaceBuilder.DEFAULT, new SurfaceBuilderConfig(Blocks.PODZOL.getDefaultState(), Blocks.STONE.getDefaultState(),
-							Blocks.STONE.getDefaultState())));
+					.surfaceBuilder(SurfaceBuilder.DEFAULT, new SurfaceBuilderConfig(Blocks.GRASS_BLOCK.getDefaultState(),
+							Blocks.STONE.getDefaultState(), Blocks.STONE.getDefaultState())));
 			setRegistryName("rose_wood_bio");
 			DefaultBiomeFeatures.addCarvers(this);
 			DefaultBiomeFeatures.addMonsterRooms(this);
@@ -56,6 +58,12 @@ public class RoseWoodBioBiome extends AppliedThinkingModElements.ModElement {
 					.withPlacement(Placement.COUNT_HEIGHTMAP_DOUBLE.configure(new FrequencyConfig(4))));
 			this.addFeature(GenerationStage.Decoration.VEGETAL_DECORATION, Feature.SEAGRASS.withConfiguration(new SeaGrassConfig(20, 0.3D))
 					.withPlacement(Placement.TOP_SOLID_HEIGHTMAP.configure(IPlacementConfig.NO_PLACEMENT_CONFIG)));
+		}
+
+		@OnlyIn(Dist.CLIENT)
+		@Override
+		public int getGrassColor(double posX, double posZ) {
+			return -11575752;
 		}
 	}
 }
