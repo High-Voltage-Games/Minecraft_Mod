@@ -1,0 +1,42 @@
+{
+  "group": "applied_thinking",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sand"
+    },
+    "1": {
+      "item": "minecraft:gravel"
+    },
+    "2": {
+      "item": "minecraft:sand"
+    },
+    "3": {
+      "item": "minecraft:gravel"
+    },
+    "4": {
+      "item": "minecraft:clay"
+    },
+    "5": {
+      "item": "minecraft:gravel"
+    },
+    "6": {
+      "item": "minecraft:sand"
+    },
+    "7": {
+      "item": "minecraft:gravel"
+    },
+    "8": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "applied_thinking:grout",
+    "count": 8
+  }
+}

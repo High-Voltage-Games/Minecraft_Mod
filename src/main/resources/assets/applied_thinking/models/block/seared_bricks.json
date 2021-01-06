@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "applied_thinking:blocks/searedbricks",
+    "up": "applied_thinking:blocks/searedbricks",
+    "north": "applied_thinking:blocks/searedbricks",
+    "east": "applied_thinking:blocks/searedbricks",
+    "south": "applied_thinking:blocks/searedbricks",
+    "west": "applied_thinking:blocks/searedbricks",
+    "particle": "applied_thinking:blocks/searedbricks"
+  }
+}

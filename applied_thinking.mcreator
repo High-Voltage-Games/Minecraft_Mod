@@ -2304,6 +2304,60 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "black_concreate_stairs_recipe"
+    },
+    {
+      "name": "Grout",
+      "type": "block",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grout"
+    },
+    {
+      "name": "GroutRecipe",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grout_recipe"
+    },
+    {
+      "name": "SearedBrick",
+      "type": "item",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seared_brick"
+    },
+    {
+      "name": "SearedBrickRecipe",
+      "type": "recipe",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seared_brick_recipe"
+    },
+    {
+      "name": "SearedBricks",
+      "type": "block",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seared_bricks"
+    },
+    {
+      "name": "SearedBricksRecipe",
+      "type": "recipe",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seared_bricks_recipe"
     }
   ],
   "variable_elements": [],
@@ -2368,6 +2422,7 @@
       "item.applied_thinking.bone_shovel": "Bone Shovel",
       "item.applied_thinking.magnesium_armor_chestplate": "Magnesium Chestplate",
       "block.applied_thinking.red_concreate_wall": "Red Concrete Wall",
+      "block.applied_thinking.seared_bricks": "Seared Bricks",
       "item.applied_thinking.magnesium_hoe": "Magnesium Hoe",
       "item.applied_thinking.titanium_pickaxe": "Titanium Pickaxe",
       "item.applied_thinking.titanium_armor_helmet": "Titanium Helmet",
@@ -2443,8 +2498,10 @@
       "block.applied_thinking.mageneta_concrete_stairs": "Mageneta Concrete Stairs",
       "item.applied_thinking.magnesium_armor_helmet": "Magnesium Helmet",
       "item.applied_thinking.netherite_armor_boots": "Netherite Armor Boots",
+      "block.applied_thinking.grout": "Grout",
       "item.applied_thinking.titanium_ingot": "Titanium",
       "item.applied_thinking.cobalt_armor_helmet": "Cobalt Helmet",
+      "item.applied_thinking.seared_brick": "Seared Brick",
       "block.applied_thinking.tin_ore": "Tin Ore",
       "item.applied_thinking.lithium_armor_boots": "Lithium Boots",
       "item.applied_thinking.tin_armor_leggings": "Tin Leggings",
