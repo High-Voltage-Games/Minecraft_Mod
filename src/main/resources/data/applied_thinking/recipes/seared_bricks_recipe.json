@@ -7,20 +7,20 @@
   ],
   "key": {
     "0": {
-      "item": "applied_thinking:seared_brick"
+      "item": "applied_thinking:unknown_element"
     },
     "1": {
-      "item": "applied_thinking:seared_brick"
+      "item": "applied_thinking:unknown_element"
     },
     "2": {
-      "item": "applied_thinking:seared_brick"
+      "item": "applied_thinking:unknown_element"
     },
     "3": {
-      "item": "applied_thinking:seared_brick"
+      "item": "applied_thinking:unknown_element"
     }
   },
   "result": {
-    "item": "applied_thinking:seared_bricks",
+    "item": "applied_thinking:unknown_element",
     "count": 1
   }
 }
