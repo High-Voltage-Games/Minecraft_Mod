@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "applied_thinking:blocks/searedbricks",
+    "top": "applied_thinking:blocks/searedbricks",
+    "side": "applied_thinking:blocks/searedbricks"
+  }
+}
