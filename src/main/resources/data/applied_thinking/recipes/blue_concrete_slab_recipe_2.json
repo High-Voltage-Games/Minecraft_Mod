@@ -6,17 +6,17 @@
   ],
   "key": {
     "0": {
-      "item": "applied_thinking:seared_brick"
+      "item": "minecraft:blue_concrete"
     },
     "1": {
-      "item": "applied_thinking:seared_brick"
+      "item": "minecraft:blue_concrete"
     },
     "2": {
-      "item": "applied_thinking:seared_brick"
+      "item": "minecraft:blue_concrete"
     }
   },
   "result": {
-    "item": "applied_thinking:seared_brick_slabs",
+    "item": "applied_thinking:blue_concrete_slab",
     "count": 6
   }
 }

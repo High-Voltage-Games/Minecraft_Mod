@@ -28,19 +28,19 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:SearedBrick"
+        "value": "Blocks.CONCRETE#11"
       },
       {
-        "value": "CUSTOM:SearedBrick"
+        "value": "Blocks.CONCRETE#11"
       },
       {
-        "value": "CUSTOM:SearedBrick"
+        "value": "Blocks.CONCRETE#11"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:SearedBrickSlabs"
+      "value": "CUSTOM:BlueConcreteSlab"
     },
-    "name": "seared_brick_slab_recipe",
+    "name": "blue_concrete_slab_recipe",
     "namespace": "mod"
   }
 }

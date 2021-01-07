@@ -10,7 +10,13 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "Blocks.CONCRETE#11"
+      },
+      {
+        "value": "Blocks.CONCRETE#11"
+      },
+      {
+        "value": "Blocks.CONCRETE#11"
       },
       {
         "value": ""
@@ -28,19 +34,13 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:SearedBrick"
-      },
-      {
-        "value": "CUSTOM:SearedBrick"
-      },
-      {
-        "value": "CUSTOM:SearedBrick"
+        "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:SearedBrickSlabs"
+      "value": "CUSTOM:BlueConcreteSlab"
     },
-    "name": "seared_brick_slab_recipe",
+    "name": "blue_concrete_slab_recipe_3",
     "namespace": "mod"
   }
 }

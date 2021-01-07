@@ -2403,14 +2403,59 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "seared_brick_slab_recipe"
+    },
+    {
+      "name": "BlueConcreteSlabRecipe",
+      "type": "recipe",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_concrete_slab_recipe"
+    },
+    {
+      "name": "BlueConcreteStairsRecipe",
+      "type": "recipe",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_concrete_stairs_recipe"
+    },
+    {
+      "name": "BlueConcreeteWallRecipe2",
+      "type": "recipe",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_concreete_wall_recipe_2"
+    },
+    {
+      "name": "BlueConcreteSlabRecipe2",
+      "type": "recipe",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_concrete_slab_recipe_2"
+    },
+    {
+      "name": "BlueConcreteSlabRecipe3",
+      "type": "recipe",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_concrete_slab_recipe_3"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.applied_thinking.beskar_forge": "Beskar Forge",
       "block.applied_thinking.lithium_ore": "Lithium Ore",
+      "block.applied_thinking.beskar_forge": "Beskar Forge",
       "block.applied_thinking.green_concrete_stairs": "Green Concrete Stairs",
       "block.applied_thinking.rose_wood_stairs": "RoseWood Stairs",
       "item.applied_thinking.magnesium_armor_boots": "Magnesium Boots",
