@@ -1,6 +1,6 @@
 {
-  "block.applied_thinking.lithium_ore": "Lithium Ore",
   "block.applied_thinking.beskar_forge": "Beskar Forge",
+  "block.applied_thinking.lithium_ore": "Lithium Ore",
   "block.applied_thinking.green_concrete_stairs": "Green Concrete Stairs",
   "block.applied_thinking.rose_wood_stairs": "RoseWood Stairs",
   "item.applied_thinking.magnesium_armor_boots": "Magnesium Boots",
@@ -26,7 +26,6 @@
   "block.applied_thinking.beskar_ore": "Beskar Ore",
   "biome.applied_thinking.millennia_bio": "Millennia Bio",
   "block.applied_thinking.rose_wood_wood": "RoseWood Wood",
-  "block.applied_thinking.seared_brick_stairs": "Seared Brick Stairs",
   "block.applied_thinking.light_blue_concreate_wall": "Light Blue Concrete Wall",
   "item.applied_thinking.lithium_hoe": "Lithium Hoe",
   "block.applied_thinking.cyan_concrete_slab": "Cyan Concrete Slab",
@@ -102,7 +101,6 @@
   "item.applied_thinking.netherite_pickaxe": "Netherite Pickaxe",
   "block.applied_thinking.light_gray_concrete_slab": "Light Gray Concrete Slab",
   "item.applied_thinking.titanium_hoe": "Titanium Hoe",
-  "block.applied_thinking.seared_brick_slabs": "Seared Brick Slab",
   "block.applied_thinking.green_concreate_wall": "Green Concrete Wall",
   "item.applied_thinking.millennia_dim": "Millennia Dim Portal Igniter",
   "block.applied_thinking.red_concrete_stairs": "Red Concrete Stairs",
