@@ -3,10 +3,10 @@
   "_type": "dimension",
   "definition": {
     "portalFrame": {
-      "value": "CUSTOM:CobaltBlock"
+      "value": "CUSTOM:NetheriteBlock"
     },
     "portalParticles": {
-      "value": "EXPLOSION_NORMAL"
+      "value": "DRIP_LAVA"
     },
     "portalLuminance": 1.0,
     "portalSound": {
@@ -16,8 +16,8 @@
     "igniterTab": {
       "value": "CUSTOM:AppliedThinking"
     },
-    "texture": "beskar_ingot",
-    "portalTexture": "beskar_ore",
+    "texture": "beacon",
+    "portalTexture": "gray_concrete",
     "enablePortal": true,
     "biomesInDimension": [
       {

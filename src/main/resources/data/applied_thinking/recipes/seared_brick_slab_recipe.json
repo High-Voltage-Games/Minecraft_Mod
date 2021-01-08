@@ -1,0 +1,22 @@
+{
+  "group": "applied_thinking",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "applied_thinking:seared_brick"
+    },
+    "1": {
+      "item": "applied_thinking:seared_brick"
+    },
+    "2": {
+      "item": "applied_thinking:seared_brick"
+    }
+  },
+  "result": {
+    "item": "applied_thinking:seared_brick_slabs",
+    "count": 6
+  }
+}

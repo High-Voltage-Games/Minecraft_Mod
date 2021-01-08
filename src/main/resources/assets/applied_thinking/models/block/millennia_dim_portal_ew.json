@@ -1,7 +1,7 @@
 {
   "textures": {
-    "particle": "applied_thinking:blocks/beskar_ore",
-    "portal": "applied_thinking:blocks/beskar_ore"
+    "particle": "applied_thinking:blocks/gray_concrete",
+    "portal": "applied_thinking:blocks/gray_concrete"
   },
   "elements": [
     {
